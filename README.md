@@ -1,4 +1,4 @@
-# SV-CMS Web — Next.js Frontend
+# client — Next.js Frontend
 
 > Frontend cho nền tảng giáo dục **Sinh Viên Online** — xây dựng với Next.js 16
 

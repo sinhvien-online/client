@@ -37,3 +37,7 @@ jobs:
 
       - name: Build Next.js
         run: pnpm build
+        env:
+          NEXT_PUBLIC_APP_URL: https://sinhvien.online
+          NEXT_PUBLIC_STRAPI_URL: https://cms.sinhvien.online
+          NEXT_PUBLIC_DIRECTUS_URL: https://sub.sinhvien.online
